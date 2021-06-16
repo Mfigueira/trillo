@@ -4,7 +4,7 @@
 
 This project is a booking app made with CSS Flexbox and SASS.
 
-I built it based on the Advanced CSS course by Jonas Schmedtmann.
+Built based on the Advanced CSS course by Jonas Schmedtmann.
 
 ## Where can I see it?
 
