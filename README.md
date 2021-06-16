@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This project is a booking app made with CSS Flexbox and SASS.
+This project is a booking Frontend App made with CSS Flexbox and SASS.
 
 Built based on the Advanced CSS course by Jonas Schmedtmann.
 
